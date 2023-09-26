@@ -29,7 +29,7 @@ urlpatterns = [
 
     # Sample applications
     path('ads/', include('ads.urls')),
-    # path('polls/', include('polls.urls')),
+    path('polls/', include('polls.urls')),
     # path('cats/', include('cats.urls')),
     # path('views/', include('views.urls')),
     # path('route/', include('route.urls', namespace='nsroute')),
