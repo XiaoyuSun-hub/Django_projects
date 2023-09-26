@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'social_django',
     'taggit',
     'home.apps.HomeConfig',
-    'ads.apps.AdsConfig'
+    'ads.apps.AdsConfig',
+    'polls.apps.PollsConfig'
 
     # Sample Applications - don't copy
 ]
